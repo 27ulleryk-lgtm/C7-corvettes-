@@ -2,6 +2,7 @@ Body{
 Background-image: url(https://wallpaperaccess.com/full/121962.jpg);
 background-repeat: no-repeat;
 background-color:black;
+ text-decoration-color: white; }
 .Title {
 color: yellow ;
 }
@@ -21,4 +22,3 @@ height: 200px;
 h6{ text-align: center;}
 a:visited{
 color: yellow}
-u{ text-decoration-color: white;}
