@@ -21,6 +21,6 @@ height: 200px;
 }
 h6{ text-align: center;}
 a:visited{
-color: orange}
+color: yellow}
 .poll-container{color: yellow;}
-form{ color: yellow;}
+form{ color: orange;}
